@@ -1,0 +1,12 @@
+C:\Users\Sen\Desktop\Git\machine-learning>D:\Python\python.exe
+Python 3.7.7 (tags/v3.7.7:d7c567b08f, Mar 10 2020, 10:41:24) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import 数据
+>>> group,labels=数据.createDataSet()
+>>> group
+array([[1. , 1.1],
+       [1. , 1. ],
+       [0. , 0. ],
+       [0. , 0.1]])
+>>> labels
+['A', 'A', 'B', 'B']
